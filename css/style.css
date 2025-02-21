@@ -824,12 +824,12 @@ h3.my-profession{
         min-width: 100%;
     }
 
-    /* h3.hello span, h3.hello{
+    h3.hello span, h3.hello{
         font-size: 26px;
-    } */
+    }
     
     h3.my-profession{
-        font-size: 27px;
+        font-size: 26px;
         margin: 15px 0;
     }
 
